@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-collections-nextjs",
+  "capabilityKey": "liberusoftware/module-browser-game-collections",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-browser-game-collections-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/browser-game/nextjs/collections.md",
+  "presentationPlan": "projects/browser-game/nextjs/collections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
